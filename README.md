@@ -1,2 +1,3 @@
-# Leetcode-opgaver-
-Laver leetcode opgaver og poster dem her
+# Leetcode Tasks/Opgaver
+
+Doing differnet leetcode tasks and posting my solutions/progress here
